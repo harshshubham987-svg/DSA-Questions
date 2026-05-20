@@ -19,6 +19,7 @@ Daily DSA journey with Python — solving problems, improving logic, and buildin
 - Valid Parantheses
 - Sliding Window Maximum
 - Character Frequency Count
+- Removing Adjacent Duplicates
 
 ## 💻 Language
 - Python
