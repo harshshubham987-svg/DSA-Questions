@@ -6,6 +6,7 @@ Daily DSA journey with Python — solving problems, improving logic, and buildin
 - Sliding Window
 - Arrays
 - Strings
+- Stack
 
 ## 🧠 Solved Questions
 - Average Subarray
@@ -15,6 +16,9 @@ Daily DSA journey with Python — solving problems, improving logic, and buildin
 - Two Sum
 - Valid Anagram
 - Variable Sliding Window
+- Valid Parantheses
+- Sliding Window Maximum
+- Character Frequency Count
 
 ## 💻 Language
 - Python
