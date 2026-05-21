@@ -1,11 +1,11 @@
 # 🚀 DSA Questions Repository
 
 Welcome to my DSA journey!  
-This repository contains Data Structures and Algorithms problems solved in Python to improve problem-solving skills, logic building, and coding consistency.
+This repository contains Data Structures and Algorithms problems solved in Python to improve problem-solving skills, logical thinking, and coding consistency.
 
 ---
 
-## 🧠 Topics Covered
+# 🧠 Topics Covered
 
 - Arrays
 - Sliding Window
@@ -13,17 +13,19 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - HashMap / Frequency Count
 - Binary Search
 - Stack
+- Recursion
+- Two Pointer
 
 ---
 
-## ✅ Solved Problems
+# ✅ Solved Problems
 
 | Problem Name | Topic |
 |---|---|
 | Average Subarray | Sliding Window |
-| Contains Duplicate | Hashing |
+| Contains Duplicate | HashMap |
 | Longest Substring Without Repeating Characters | Sliding Window |
-| Maximum Subarray | Kadane's Algorithm |
+| Maximum Subarray | Kadane’s Algorithm |
 | Move Zeroes | Two Pointer |
 | Remove Adjacent Duplicates | Stack |
 | Remove Duplicates From Sorted Array | Two Pointer |
@@ -34,41 +36,50 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Frequency Count | HashMap |
 | Binary Search First Occurrence | Binary Search |
 | Binary Search Last Occurrence | Binary Search |
-| Variable Sliding Windows | Sliding Window |
+| Variable Sliding Window | Sliding Window |
+| Factorial Using Recursion | Recursion |
+| Sum of First N Numbers | Recursion |
 
 ---
 
-## 💻 Language Used
+# 💻 Language Used
 
 - Python 🐍
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Improve DSA and problem-solving skills
-- Build consistency through daily coding
+- Build strong logical thinking
+- Maintain daily coding consistency
 - Prepare for coding interviews
 - Track learning progress publicly on GitHub
 
 ---
 
-## 📈 Current Progress
+# 📈 Current Progress
 
-✅ 15+ DSA Questions Solved  
-🔥 Consistent Daily Practice Ongoing
+✅ 17+ DSA Questions Solved  
+🔥 Daily Consistency in Progress  
+🚀 Continuously Learning New Patterns and Approaches
 
 ---
 
-## 🚀 Future Plans
+# 📚 Future Plans
 
 - Advanced Sliding Window
 - Linked List
 - Trees & Graphs
 - Dynamic Programming
 - Heap & Greedy Algorithms
+- Backtracking
+- Graph Algorithms
 
 ---
 
-### ⭐ Consistency Beats Intensity
-Learning one step at a time and improving every day.
+# ⭐ Learning Philosophy
+
+Small progress every day is better than waiting for perfection.
+
+Consistency > Motivation 🚀
