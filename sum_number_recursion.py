@@ -1,7 +1,7 @@
-def first_num(num, n, t):
-    if num < n:
-        return t
-    return first_num(num, n+1, t+n)
+def first_num(num):
+    if num == 0:
+        return num
+    return num + first_num(num-1) 
 
 num = 5
-print(first_num(num, 1, 0))
+print(first_num(num))
