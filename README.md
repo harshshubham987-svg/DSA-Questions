@@ -39,6 +39,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Variable Sliding Window | Sliding Window |
 | Factorial Using Recursion | Recursion |
 | Sum of First N Numbers | Recursion |
+| Reverse an Array Using Recursion | Recursion |
+| Palindrome Check Using Recursion | Recursion |
 
 ---
 
@@ -60,7 +62,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 17+ DSA Questions Solved  
+✅ 19+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
