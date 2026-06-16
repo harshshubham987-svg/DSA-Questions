@@ -15,6 +15,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - Stack
 - Recursion
 - Two Pointer
+- Math / Number Manipulation
 
 ---
 
@@ -41,6 +42,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Sum of First N Numbers | Recursion |
 | Reverse an Array Using Recursion | Recursion |
 | Palindrome Check Using Recursion | Recursion |
+| Number of Steps to Reduce a Number to Zero (LeetCode 1342) | Math / Recursion |
+| Subtract the Product and Sum of Digits of an Integer (LeetCode 1281) | Math |
 
 ---
 
@@ -62,7 +65,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 19+ DSA Questions Solved  
+✅ 21+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
