@@ -44,6 +44,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Palindrome Check Using Recursion | Recursion |
 | Number of Steps to Reduce a Number to Zero (LeetCode 1342) | Math / Recursion |
 | Subtract the Product and Sum of Digits of an Integer (LeetCode 1281) | Math |
+| Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
 
 ---
 
@@ -65,7 +66,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 21+ DSA Questions Solved  
+✅ 22+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
