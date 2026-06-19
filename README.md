@@ -46,6 +46,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Subtract the Product and Sum of Digits of an Integer (LeetCode 1281) | Math |
 | Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
 | Fibonacci Series Using Recursion | Recursion |
+| Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
 
 ---
 
@@ -67,7 +68,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 23+ DSA Questions Solved  
+✅ 24+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
