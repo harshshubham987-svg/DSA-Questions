@@ -47,6 +47,9 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
 | Fibonacci Series Using Recursion | Recursion |
 | Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
+| First Bad Version (LeetCode 278) | Binary Search |
+| Guess Number Higher or Lower (LeetCode 374) | Binary Search |
+| Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
 
 ---
 
@@ -68,7 +71,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 24+ DSA Questions Solved  
+✅ 27+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
