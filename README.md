@@ -21,35 +21,90 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # ✅ Solved Problems
 
+## 📌 Sliding Window
 | Problem Name | Topic |
 |---|---|
 | Average Subarray | Sliding Window |
-| Contains Duplicate | HashMap |
 | Longest Substring Without Repeating Characters | Sliding Window |
-| Maximum Subarray | Kadane’s Algorithm |
-| Move Zeroes | Two Pointer |
-| Remove Adjacent Duplicates | Stack |
-| Remove Duplicates From Sorted Array | Two Pointer |
 | Sliding Window Maximum | Sliding Window |
+| Variable Sliding Window | Sliding Window |
+
+---
+
+## 📌 HashMap / Arrays
+| Problem Name | Topic |
+|---|---|
+| Contains Duplicate | HashMap |
 | Two Sum | HashMap |
-| Valid Anagram | Strings / HashMap |
-| Valid Parentheses | Stack |
 | Frequency Count | HashMap |
+| Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
+
+---
+
+## 📌 Two Pointer
+| Problem Name | Topic |
+|---|---|
+| Move Zeroes | Two Pointer |
+| Remove Duplicates From Sorted Array | Two Pointer |
+
+---
+
+## 📌 Stack
+| Problem Name | Topic |
+|---|---|
+| Remove Adjacent Duplicates | Stack |
+| Valid Parentheses | Stack |
+
+---
+
+## 📌 Binary Search
+| Problem Name | Topic |
+|---|---|
 | Binary Search First Occurrence | Binary Search |
 | Binary Search Last Occurrence | Binary Search |
-| Variable Sliding Window | Sliding Window |
+| First Bad Version (LeetCode 278) | Binary Search |
+| Guess Number Higher or Lower (LeetCode 374) | Binary Search |
+
+---
+
+## 📌 Recursion
+| Problem Name | Topic |
+|---|---|
 | Factorial Using Recursion | Recursion |
 | Sum of First N Numbers | Recursion |
 | Reverse an Array Using Recursion | Recursion |
 | Palindrome Check Using Recursion | Recursion |
+| Fibonacci Series Using Recursion | Recursion |
+
+---
+
+## 📌 Prefix Sum / Arrays
+| Problem Name | Topic |
+|---|---|
+| Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
+| Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
+
+---
+
+## 📌 Math / Number Manipulation
+| Problem Name | Topic |
+|---|---|
 | Number of Steps to Reduce a Number to Zero (LeetCode 1342) | Math / Recursion |
 | Subtract the Product and Sum of Digits of an Integer (LeetCode 1281) | Math |
-| Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
-| Fibonacci Series Using Recursion | Recursion |
-| Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
-| First Bad Version (LeetCode 278) | Binary Search |
-| Guess Number Higher or Lower (LeetCode 374) | Binary Search |
-| Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
+
+---
+
+## 📌 Kadane's Algorithm
+| Problem Name | Topic |
+|---|---|
+| Maximum Subarray | Kadane’s Algorithm |
+
+---
+
+## 📌 String Problems
+| Problem Name | Topic |
+|---|---|
+| Valid Anagram | Strings / HashMap |
 
 ---
 
