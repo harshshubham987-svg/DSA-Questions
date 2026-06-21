@@ -67,6 +67,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Valid Perfect Square (LeetCode 367) | Binary Search |
 | Search Insert Position (LeetCode 35) | Binary Search |
 | Arranging Coins (LeetCode 441) | Binary Search |
+| Find Smallest Letter Greater Than Target (LeetCode 744) | Binary Search |
 
 ---
 
@@ -129,7 +130,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 30+ DSA Questions Solved  
+✅ 31+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
