@@ -64,6 +64,9 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Binary Search Last Occurrence | Binary Search |
 | First Bad Version (LeetCode 278) | Binary Search |
 | Guess Number Higher or Lower (LeetCode 374) | Binary Search |
+| Valid Perfect Square (LeetCode 367) | Binary Search |
+| Search Insert Position (LeetCode 35) | Binary Search |
+| Arranging Coins (LeetCode 441) | Binary Search |
 
 ---
 
@@ -126,7 +129,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 27+ DSA Questions Solved  
+✅ 30+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
