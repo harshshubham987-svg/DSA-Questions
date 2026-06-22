@@ -39,6 +39,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Frequency Count | HashMap |
 | Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
 | Fair Candy Swap (LeetCode 888) | HashMap / Math |
+| Check If N and Its Double Exist (LeetCode 1346) | HashSet / Arrays |
 
 ---
 
@@ -131,7 +132,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 32+ DSA Questions Solved  
+✅ 33+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
