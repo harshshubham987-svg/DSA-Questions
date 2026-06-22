@@ -38,6 +38,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Two Sum | HashMap |
 | Frequency Count | HashMap |
 | Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
+| Fair Candy Swap (LeetCode 888) | HashMap / Math |
 
 ---
 
@@ -130,7 +131,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 31+ DSA Questions Solved  
+✅ 32+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
