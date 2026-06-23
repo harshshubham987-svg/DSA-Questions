@@ -70,6 +70,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Search Insert Position (LeetCode 35) | Binary Search |
 | Arranging Coins (LeetCode 441) | Binary Search |
 | Find Smallest Letter Greater Than Target (LeetCode 744) | Binary Search |
+| Find the Distance Value Between Two Arrays (LeetCode 1385) | Binary Search / Arrays |
 
 ---
 
@@ -89,6 +90,13 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
 | Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
+
+---
+
+## 📌 Matrix / Arrays
+| Problem Name | Topic |
+|---|---|
+| Count Negative Numbers in a Sorted Matrix (LeetCode 1351) | Matrix / Binary Search |
 
 ---
 
@@ -132,7 +140,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 33+ DSA Questions Solved  
+✅ 35+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
