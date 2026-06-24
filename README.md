@@ -16,6 +16,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - Recursion
 - Two Pointer
 - Math / Number Manipulation
+- Backtracking
 
 ---
 
@@ -85,6 +86,14 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 ---
 
+## 📌 Backtracking
+| Problem Name | Topic |
+|---|---|
+| Combination Sum (LeetCode 39) | Backtracking |
+| Subsets (LeetCode 78) | Backtracking |
+
+---
+
 ## 📌 Prefix Sum / Arrays
 | Problem Name | Topic |
 |---|---|
@@ -140,7 +149,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 35+ DSA Questions Solved  
+✅ 37+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -153,7 +162,6 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - Trees & Graphs
 - Dynamic Programming
 - Heap & Greedy Algorithms
-- Backtracking
 - Graph Algorithms
 
 ---
