@@ -125,6 +125,13 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 ---
 
+## 📌 Greedy
+| Problem Name | Topic |
+|---|---|
+| Best Time to Buy and Sell Stock (LeetCode 121) | Greedy / Arrays |
+
+---
+
 ## 📌 String Problems
 | Problem Name | Topic |
 |---|---|
@@ -150,7 +157,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 38+ DSA Questions Solved  
+✅ 39+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
