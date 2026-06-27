@@ -90,9 +90,11 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Problem Name | Topic |
 |---|---|
 | Combination Sum (LeetCode 39) | Backtracking |
+| Combination Sum II (LeetCode 40) | Backtracking |
 | Subsets (LeetCode 78) | Backtracking |
 | Subsets-II (LeetCode 90) | Backtracking |
 | Permutations (LeetCode 46) | Backtracking |
+
 
 ---
 
@@ -158,7 +160,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 40+ DSA Questions Solved  
+✅ 41+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
