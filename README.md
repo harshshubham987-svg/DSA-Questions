@@ -139,6 +139,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Problem Name | Topic |
 |---|---|
 | Valid Anagram | Strings / HashMap |
+| Check Balanced String (LeetCode 3340) | Strings / Simulation |
 
 ---
 
@@ -160,7 +161,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 41+ DSA Questions Solved  
+✅ 42+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
