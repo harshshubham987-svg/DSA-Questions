@@ -95,6 +95,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Subsets-II (LeetCode 90) | Backtracking |
 | Permutations (LeetCode 46) | Backtracking |
 | Palindrome Partitioning (LeetCode 131) | Backtracking / Recursion |
+| Letter Combinations of a Phone Number (LeetCode 17) | Backtracking |
 
 
 ---
@@ -162,7 +163,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 43+ DSA Questions Solved  
+✅ 44+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
