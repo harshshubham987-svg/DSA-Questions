@@ -49,6 +49,9 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Move Zeroes | Two Pointer |
 | Remove Duplicates From Sorted Array | Two Pointer |
+| 3Sum (LeetCode 15) | Two Pointer / Sorting |
+| 3Sum Closest (LeetCode 16) | Two Pointer / Sorting |
+| 4Sum (LeetCode 18) | Two Pointer / Sorting |
 
 ---
 
@@ -57,6 +60,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Remove Adjacent Duplicates | Stack |
 | Valid Parentheses | Stack |
+| Asteroid Collision (LeetCode 735) | Stack / Simulation |
 
 ---
 
@@ -143,6 +147,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Valid Anagram | Strings / HashMap |
 | Check Balanced String (LeetCode 3340) | Strings / Simulation |
+| Detect Capital (LeetCode 520) | Strings |
+| Longest Common Prefix (LeetCode 14) | Strings |
 
 ---
 
@@ -164,7 +170,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 45+ DSA Questions Solved  
+✅ 51+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
