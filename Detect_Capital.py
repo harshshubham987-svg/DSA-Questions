@@ -71,3 +71,4 @@ Key Intuition:
 Valid capital usage follows fixed patterns,
 so we directly verify those patterns.
 '''
+
