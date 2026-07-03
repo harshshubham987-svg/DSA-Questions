@@ -61,6 +61,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Remove Adjacent Duplicates | Stack |
 | Valid Parentheses | Stack |
 | Asteroid Collision (LeetCode 735) | Stack / Simulation |
+| Next Greater Element I (LeetCode 496) | Stack / Monotonic Stack |
 
 ---
 
@@ -77,6 +78,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Find Smallest Letter Greater Than Target (LeetCode 744) | Binary Search |
 | Find the Distance Value Between Two Arrays (LeetCode 1385) | Binary Search / Arrays |
 | Median of Two Sorted Arrays (LeetCode 4) | Binary Search / Partition Logic |
+| Longest Substring Without Repeating Characters (LeetCode 3) | Sliding Window / HashMap |
 
 ---
 
@@ -101,7 +103,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Permutations (LeetCode 46) | Backtracking |
 | Palindrome Partitioning (LeetCode 131) | Backtracking / Recursion |
 | Letter Combinations of a Phone Number (LeetCode 17) | Backtracking |
-
+| Word Search (LeetCode 79) | Backtracking / DFS |
+| N-Queens (LeetCode 51) | Backtracking |
 
 ---
 
@@ -170,7 +173,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 51+ DSA Questions Solved  
+✅ 55+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
