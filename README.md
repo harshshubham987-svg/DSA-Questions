@@ -52,6 +52,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | 3Sum (LeetCode 15) | Two Pointer / Sorting |
 | 3Sum Closest (LeetCode 16) | Two Pointer / Sorting |
 | 4Sum (LeetCode 18) | Two Pointer / Sorting |
+| Container With Most Water (LeetCode 11) | Two Pointer / Greedy |
 
 ---
 
@@ -173,7 +174,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 55+ DSA Questions Solved  
+✅ 56+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
