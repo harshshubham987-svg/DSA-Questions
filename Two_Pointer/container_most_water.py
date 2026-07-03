@@ -1,59 +1,104 @@
 '''
 11. Container With Most Water
 
-You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+You are given an integer array height.
 
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
+Each element represents height of a vertical line.
 
-Return the maximum amount of water a container can store.
+Find two lines that form the container
+which stores maximum water.
 
-Notice that you may not slant the container.
-
- 
-
-Example 1:
-
-
-Input: height = [1,8,6,2,5,4,8,3,7]
-Output: 49
-Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
-Example 2:
-
-Input: height = [1,1]
-Output: 1
- 
-
-Constraints:
-
-n == height.length
-2 <= n <= 105
-0 <= heigh
+Formula:
+Area = width × min(left_height, right_height)
 '''
+
+# Solution:
 
 height = [1,8,6,2,5,4,8,3,7]
 
+# Left pointer
 lef = 0
-rig = len(height)-1
+
+# Right pointer
+rig = len(height) - 1
+
+# Store maximum water
 most_water = 0
 
+# Apply two-pointer approach
 while lef < rig:
+
+    # Store current left height
     lef_v = height[lef]
+
+    # Store current right height
     rig_v = height[rig]
-    
-    curr = rig-lef
+
+    # Calculate width
+    width = rig - lef
+
+    # Current area = width × minimum height
+    curr = width * min(lef_v, rig_v)
+
+    # Update maximum water
+    most_water = max(most_water, curr)
+
+    # Move smaller height pointer
     if rig_v > lef_v:
         lef += 1
-        curr = curr*lef_v
+
     elif rig_v == lef_v:
         rig -= 1
         lef += 1
-        curr = curr*lef_v
+
     else:
         rig -= 1
-        curr = curr*rig_v
-    
-    most_water = max(most_water , curr)
+
+    # Print current details
     print(f"left value : {lef_v} , Right value : {rig_v}, current : {curr}")
 
-
+# Print final answer
 print(most_water)
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
+'''
+Theory Explanation:
+
+1. This problem uses Two Pointer.
+
+2. Water stored depends on:
+   -> Width between pointers
+   -> Smaller height
+
+Formula:
+Area = (right - left) × min(height[left], height[right])
+
+3. Start with:
+   left = 0
+   right = n-1
+
+4. Calculate area.
+
+5. Move the smaller height pointer.
+
+Why?
+
+Because:
+Moving bigger height cannot increase area,
+since smaller height limits water.
+
+Important Steps:
+
+-> Always calculate area first.
+-> Use min(left, right).
+-> Move smaller pointer only.
+-> Update maximum every time.
+
+Key Intuition:
+
+Wider container at start,
+then shrink smartly
+by removing smaller walls.
+'''
