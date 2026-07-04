@@ -17,6 +17,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - Two Pointer
 - Math / Number Manipulation
 - Backtracking
+- Graphs / DFS
 
 ---
 
@@ -196,7 +197,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - Trees & Graphs
 - Dynamic Programming
 - Heap & Greedy Algorithms
-- Graph Algorithms
+- Advanced Graph Algorithms
 
 ---
 
