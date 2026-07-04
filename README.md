@@ -80,6 +80,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Find the Distance Value Between Two Arrays (LeetCode 1385) | Binary Search / Arrays |
 | Median of Two Sorted Arrays (LeetCode 4) | Binary Search / Partition Logic |
 | Longest Substring Without Repeating Characters (LeetCode 3) | Sliding Window / HashMap |
+| Search in Rotated Sorted Array (LeetCode 33) | Binary Search |
 
 ---
 
@@ -174,7 +175,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 56+ DSA Questions Solved  
+✅ 57+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
