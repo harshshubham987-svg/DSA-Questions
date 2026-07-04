@@ -56,6 +56,13 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 ---
 
+## 📌 Graphs / DFS
+| Problem Name | Topic |
+|---|---|
+| Number of Islands (LeetCode 200) | Graph / DFS |
+
+---
+
 ## 📌 Stack
 | Problem Name | Topic |
 |---|---|
@@ -176,7 +183,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 58+ DSA Questions Solved  
+✅ 59+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
