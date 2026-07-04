@@ -63,6 +63,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Valid Parentheses | Stack |
 | Asteroid Collision (LeetCode 735) | Stack / Simulation |
 | Next Greater Element I (LeetCode 496) | Stack / Monotonic Stack |
+| Min Stack (LeetCode 155) | Stack / Design |
 
 ---
 
@@ -175,7 +176,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 57+ DSA Questions Solved  
+✅ 58+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
