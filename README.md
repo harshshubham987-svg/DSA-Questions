@@ -178,9 +178,11 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - Improve DSA and problem-solving skills
 - Build strong logical thinking
-- Maintain daily coding consistency
 - Prepare for coding interviews
-- Track learning progress publicly on GitHub
+- Maintain daily coding consistency
+- Solve 100+ quality DSA problems
+- Master core DSA patterns
+- Track learning publicly on GitHub
 
 ---
 
@@ -189,6 +191,26 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 ✅ 60+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
+
+---
+
+# 🏆 Milestones
+
+- ✅ 10 DSA Problems Solved
+- ✅ 25 DSA Problems Solved
+- ✅ 50 DSA Problems Solved
+- 🎉 ✅ 60 DSA Problems Solved (Current)
+- ⏳ 75 DSA Problems
+- ⏳ 100 DSA Problems
+
+---
+
+# 📚 Repository Stats
+
+- 💻 Language: Python
+- 📂 Repository Organized Topic-wise
+- 📈 Problems Solved: 60+
+- 🎯 Focus: Interview Preparation
 
 ---
 
