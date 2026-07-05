@@ -64,6 +64,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Number of Islands (LeetCode 200) | Graph / DFS |
 | Flood Fill (LeetCode 733) | Graph / DFS |
+| Max Area of Island (LeetCode 695) | Graph / DFS |
 
 ---
 
@@ -189,7 +190,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 61+ DSA Questions Solved  
+✅ 62+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
