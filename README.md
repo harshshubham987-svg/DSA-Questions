@@ -28,8 +28,10 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Average Subarray | Sliding Window |
 | Longest Substring Without Repeating Characters | Sliding Window |
+| Maximum Average Subarray I (LeetCode 643) | Fixed Sliding Window |
 | Sliding Window Maximum | Sliding Window |
 | Variable Sliding Window | Sliding Window |
+
 
 ---
 
@@ -184,7 +186,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 59+ DSA Questions Solved  
+✅ 60+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
