@@ -202,7 +202,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 61+
+- 🎯 Current Progress: 62+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
