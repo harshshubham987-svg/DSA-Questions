@@ -121,6 +121,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Letter Combinations of a Phone Number (LeetCode 17) | Backtracking |
 | Word Search (LeetCode 79) | Backtracking / DFS |
 | N-Queens (LeetCode 51) | Backtracking |
+| N-Queens II (LeetCode 52) | Backtracking |
 
 ---
 
