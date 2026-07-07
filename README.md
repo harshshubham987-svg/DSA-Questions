@@ -143,6 +143,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 ## 📌 Math / Number Manipulation
 | Problem Name | Topic |
 |---|---|
+| Reverse Integer (LeetCode 7) | Math / Number Manipulation |
 | Number of Steps to Reduce a Number to Zero (LeetCode 1342) | Math / Recursion |
 | Subtract the Product and Sum of Digits of an Integer (LeetCode 1281) | Math |
 
@@ -193,7 +194,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 65+ DSA Questions Solved  
+✅ 66+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -205,7 +206,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 65+
+- 🎯 Current Progress: 66+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -215,7 +216,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 65+
+- 📈 Problems Solved: 66+
 - 🎯 Focus: Interview Preparation
 
 ---
