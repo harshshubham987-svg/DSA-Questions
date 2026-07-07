@@ -44,7 +44,7 @@ def main():
         r = a % 10
 
         # Check 32-bit integer overflow
-        if (r_x * 10) + r < (2 ** 31) - 1:
+        if (r_x * 10) + r < (2 ** 31) - 1 :
 
             # Build reversed number
             r_x = (r_x * 10) + r
@@ -109,3 +109,4 @@ Key Intuition:
 Take digits from right to left
 and rebuild the number
 from left to right.
+'''
