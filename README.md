@@ -151,7 +151,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 ## 📌 Kadane's Algorithm
 | Problem Name | Topic |
 |---|---|
-| Maximum Subarray Using Slnding-Window | Kadane’s Algorithm |
+| Maximum Subarray Using Sliding-Window | Kadane’s Algorithm |
 | Maximum Subarray (LeetCode 53) | Kadane's Algorithm |
 
 ---
