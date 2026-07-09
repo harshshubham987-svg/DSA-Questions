@@ -162,6 +162,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Problem Name | Topic |
 |---|---|
 | Best Time to Buy and Sell Stock (LeetCode 121) | Greedy / Arrays |
+| Jump Game (LeetCode 55) | Greedy/Array |
 
 ---
 
@@ -195,7 +196,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 67+ DSA Questions Solved  
+✅ 68+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -207,7 +208,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 67+
+- 🎯 Current Progress: 68+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -217,7 +218,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 67+
+- 📈 Problems Solved: 68+
 - 🎯 Focus: Interview Preparation
 
 ---
