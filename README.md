@@ -130,6 +130,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 |---|---|
 | Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
 | Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
+| Majority Element II (LeetCode 229) | Arrays / Boyer-Moore Voting |
 
 ---
 
@@ -194,7 +195,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 66+ DSA Questions Solved  
+✅ 67+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -206,7 +207,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 66+
+- 🎯 Current Progress: 67+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -216,7 +217,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 66+
+- 📈 Problems Solved: 67+
 - 🎯 Focus: Interview Preparation
 
 ---
