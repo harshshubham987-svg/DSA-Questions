@@ -5,6 +5,13 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+
+---
+
 # 🧠 Topics Covered
 
 - Arrays
