@@ -130,6 +130,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Word Search (LeetCode 79) | Backtracking / DFS |
 | N-Queens (LeetCode 51) | Backtracking |
 | N-Queens II (LeetCode 52) | Backtracking |
+| Combinations (LeetCode 77) | Backtracking |
+| Target Sum (LeetCode 494) | Backtracking / Recursion |
 
 ---
 
@@ -204,7 +206,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 69+ DSA Questions Solved  
+✅ 71+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -216,7 +218,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 69+
+- 🎯 Current Progress: 71+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -226,7 +228,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 69+
+- 📈 Problems Solved: 71+
 - 🎯 Focus: Interview Preparation
 
 ---
