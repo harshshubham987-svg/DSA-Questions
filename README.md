@@ -49,6 +49,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Two Sum | HashMap |
 | Frequency Count | HashMap |
 | Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
+| Continuous Subarray Sum (LeetCode 523) | Prefix Sum / HashMap/Array|
 | Fair Candy Swap (LeetCode 888) | HashMap / Math |
 | Check If N and Its Double Exist (LeetCode 1346) | HashSet / Arrays |
 
@@ -207,7 +208,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 72+ DSA Questions Solved  
+✅ 73+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -219,7 +220,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 72+
+- 🎯 Current Progress: 73+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -229,7 +230,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 72+
+- 📈 Problems Solved: 73cd+
 - 🎯 Focus: Interview Preparation
 
 ---
