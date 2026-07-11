@@ -120,17 +120,18 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 ## 📌 Backtracking
 | Problem Name | Topic |
 |---|---|
+| Letter Combinations of a Phone Number (LeetCode 17) | Backtracking |
+| Generate Parentheses (LeetCode 22) | Backtracking / Recursion |
 | Combination Sum (LeetCode 39) | Backtracking |
 | Combination Sum II (LeetCode 40) | Backtracking |
-| Subsets (LeetCode 78) | Backtracking |
-| Subsets-II (LeetCode 90) | Backtracking |
 | Permutations (LeetCode 46) | Backtracking |
-| Palindrome Partitioning (LeetCode 131) | Backtracking / Recursion |
-| Letter Combinations of a Phone Number (LeetCode 17) | Backtracking |
-| Word Search (LeetCode 79) | Backtracking / DFS |
 | N-Queens (LeetCode 51) | Backtracking |
 | N-Queens II (LeetCode 52) | Backtracking |
 | Combinations (LeetCode 77) | Backtracking |
+| Subsets (LeetCode 78) | Backtracking |
+| Word Search (LeetCode 79) | Backtracking / DFS |
+| Subsets-II (LeetCode 90) | Backtracking |
+| Palindrome Partitioning (LeetCode 131) | Backtracking / Recursion |
 | Target Sum (LeetCode 494) | Backtracking / Recursion |
 
 ---
@@ -206,7 +207,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 71+ DSA Questions Solved  
+✅ 72+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -218,7 +219,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 71+
+- 🎯 Current Progress: 72+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -228,7 +229,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 71+
+- 📈 Problems Solved: 72+
 - 🎯 Focus: Interview Preparation
 
 ---
