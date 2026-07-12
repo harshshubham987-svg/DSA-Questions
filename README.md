@@ -1,114 +1,157 @@
 # 🚀 DSA Questions Repository
 
-Welcome to my DSA journey!  
-This repository contains Data Structures and Algorithms problems solved in Python to improve problem-solving skills, logical thinking, and coding consistency.
+Welcome to my Data Structures and Algorithms journey!
+
+This repository documents my consistent DSA practice using Python. The goal is to strengthen problem-solving skills, understand core algorithmic patterns, and prepare for technical interviews through regular hands-on problem solving.
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+![LeetCode](https://img.shields.io/badge/LeetCode-75%2B%20Problems-orange?logo=leetcode)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-purple)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
+
+---
+
+# 📈 Current Progress
+
+- ✅ **75+ DSA Problems Solved**
+- 🔥 Consistent Problem-Solving Practice
+- 🧠 Learning Pattern Recognition and Optimization
+- 💻 Solutions Implemented in Python
+- 📂 Repository Organized Topic-wise
+- 🎯 Current Target: **100+ DSA Problems**
 
 ---
 
 # 🧠 Topics Covered
 
 - Arrays
-- Sliding Window
-- Strings
-- HashMap / Frequency Count
 - Binary Search
-- Stack
-- Recursion
+- Sliding Window
 - Two Pointer
-- Math / Number Manipulation
+- HashMap / HashSet
+- Prefix Sum
+- Stack
+- Monotonic Stack
+- Recursion
 - Backtracking
 - Graphs / DFS
+- Greedy
+- Kadane's Algorithm
+- Matrix
+- Strings
+- Math / Number Manipulation
+
+---
+
+# 🗂️ Problem Categories
+
+| Category | Focus |
+|---|---|
+| 🔍 Binary Search | Search Space & Sorted Data |
+| 🪟 Sliding Window | Fixed & Variable Windows |
+| 👉 Two Pointer | Pointer Optimization |
+| 🗺️ HashMap / HashSet | Fast Lookup & Frequency Tracking |
+| ➕ Prefix Sum | Subarray & Cumulative Sum Problems |
+| 📚 Stack | Stack Design & Simulation |
+| 📈 Monotonic Stack | Next Greater Element Patterns |
+| 🔁 Recursion | Recursive Thinking & Base Cases |
+| 🔙 Backtracking | Decision Trees & State Exploration |
+| 🌐 Graphs / DFS | Grid and Graph Traversal |
+| ⚡ Greedy | Local Optimal Decisions |
+| 📊 Kadane's Algorithm | Maximum Subarray Patterns |
+| 🔢 Math | Number Manipulation |
+| 🔤 Strings | String Traversal & Validation |
+| 🧩 Matrix | 2D Array Problems |
 
 ---
 
 # ✅ Solved Problems
 
 ## 📌 Sliding Window
+
 | Problem Name | Topic |
 |---|---|
 | Average Subarray | Sliding Window |
-| Longest Substring Without Repeating Characters | Sliding Window |
+| Longest Substring Without Repeating Characters (LeetCode 3) | Sliding Window / HashMap |
 | Maximum Average Subarray I (LeetCode 643) | Fixed Sliding Window |
 | Sliding Window Maximum | Sliding Window |
 | Variable Sliding Window | Sliding Window |
 
-
 ---
 
-## 📌 HashMap / Arrays
+## 📌 HashMap / HashSet
+
 | Problem Name | Topic |
 |---|---|
 | Contains Duplicate | HashMap |
 | Two Sum | HashMap |
 | Frequency Count | HashMap |
 | Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
-| Continuous Subarray Sum (LeetCode 523) | Prefix Sum / HashMap/Array|
-| Fair Candy Swap (LeetCode 888) | HashMap / Math |
+| Fair Candy Swap (LeetCode 888) | HashSet / Math |
 | Check If N and Its Double Exist (LeetCode 1346) | HashSet / Arrays |
 
 ---
 
 ## 📌 Two Pointer
+
 | Problem Name | Topic |
 |---|---|
-| Move Zeroes | Two Pointer |
-| Remove Duplicates From Sorted Array | Two Pointer |
+| Container With Most Water (LeetCode 11) | Two Pointer / Greedy |
 | 3Sum (LeetCode 15) | Two Pointer / Sorting |
 | 3Sum Closest (LeetCode 16) | Two Pointer / Sorting |
 | 4Sum (LeetCode 18) | Two Pointer / Sorting |
-| Container With Most Water (LeetCode 11) | Two Pointer / Greedy |
-
----
-
-## 📌 Graphs / DFS
-| Problem Name | Topic |
-|---|---|
-| Number of Islands (LeetCode 200) | Graph / DFS |
-| Flood Fill (LeetCode 733) | Graph / DFS |
-| Max Area of Island (LeetCode 695) | Graph / DFS |
-| Clone Graph (LeetCode 133) | Graph / DFS |
-| Number of Provinces (LeetCode 547) | Graph / DFS |
-
----
-
-## 📌 Stack
-| Problem Name | Topic |
-|---|---|
-| Remove Adjacent Duplicates | Stack |
-| Valid Parentheses | Stack |
-| Asteroid Collision (LeetCode 735) | Stack / Simulation |
-| Daily Temperatures (LeetCode 739) | Monotonic Stack |
-| Next Greater Element I (LeetCode 496) | Stack / Monotonic Stack |
-| Min Stack (LeetCode 155) | Stack / Design |
+| Move Zeroes | Two Pointer |
+| Remove Duplicates From Sorted Array | Two Pointer |
 
 ---
 
 ## 📌 Binary Search
+
 | Problem Name | Topic |
 |---|---|
-| Binary Search First Occurrence | Binary Search |
-| Binary Search Last Occurrence | Binary Search |
-| First Bad Version (LeetCode 278) | Binary Search |
-| Guess Number Higher or Lower (LeetCode 374) | Binary Search |
-| Valid Perfect Square (LeetCode 367) | Binary Search |
+| Median of Two Sorted Arrays (LeetCode 4) | Binary Search / Partition |
+| Search in Rotated Sorted Array (LeetCode 33) | Binary Search |
 | Search Insert Position (LeetCode 35) | Binary Search |
+| First Bad Version (LeetCode 278) | Binary Search |
+| Valid Perfect Square (LeetCode 367) | Binary Search |
+| Guess Number Higher or Lower (LeetCode 374) | Binary Search |
 | Arranging Coins (LeetCode 441) | Binary Search |
 | Find Smallest Letter Greater Than Target (LeetCode 744) | Binary Search |
 | Find the Distance Value Between Two Arrays (LeetCode 1385) | Binary Search / Arrays |
-| Median of Two Sorted Arrays (LeetCode 4) | Binary Search / Partition Logic |
-| Longest Substring Without Repeating Characters (LeetCode 3) | Sliding Window / HashMap |
-| Search in Rotated Sorted Array (LeetCode 33) | Binary Search |
+| Binary Search First Occurrence | Binary Search |
+| Binary Search Last Occurrence | Binary Search |
+
+---
+
+## 📌 Prefix Sum / Arrays
+
+| Problem Name | Topic |
+|---|---|
+| Majority Element II (LeetCode 229) | Arrays / Boyer-Moore Voting |
+| Continuous Subarray Sum (LeetCode 523) | Prefix Sum / HashMap |
+| Subarray Sum Equals K (LeetCode 560) | Prefix Sum / HashMap |
+| Running Sum of 1D Array (LeetCode 1480) | Prefix Sum |
+| Find the Highest Altitude (LeetCode 1732) | Prefix Sum |
+
+---
+
+## 📌 Stack
+
+| Problem Name | Topic |
+|---|---|
+| Min Stack (LeetCode 155) | Stack / Design |
+| Next Greater Element I (LeetCode 496) | Monotonic Stack |
+| Asteroid Collision (LeetCode 735) | Stack / Simulation |
+| Daily Temperatures (LeetCode 739) | Monotonic Stack |
+| Remove Adjacent Duplicates | Stack |
+| Valid Parentheses | Stack |
 
 ---
 
 ## 📌 Recursion
+
 | Problem Name | Topic |
 |---|---|
 | Factorial Using Recursion | Recursion |
@@ -120,6 +163,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 ---
 
 ## 📌 Backtracking
+
 | Problem Name | Topic |
 |---|---|
 | Letter Combinations of a Phone Number (LeetCode 17) | Backtracking |
@@ -132,24 +176,44 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Combinations (LeetCode 77) | Backtracking |
 | Subsets (LeetCode 78) | Backtracking |
 | Word Search (LeetCode 79) | Backtracking / DFS |
-| Subsets-II (LeetCode 90) | Backtracking |
+| Subsets II (LeetCode 90) | Backtracking |
 | Palindrome Partitioning (LeetCode 131) | Backtracking / Recursion |
 | Target Sum (LeetCode 494) | Backtracking / Recursion |
 
 ---
 
-## 📌 Prefix Sum / Arrays
+## 📌 Graphs / DFS
+
 | Problem Name | Topic |
 |---|---|
-| Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
-| Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
-| Majority Element II (LeetCode 229) | Arrays / Boyer-Moore Voting |
-| Subarray Sum Equals K (LeetCode 560) | Prefix Sum / HashMap |
+| Clone Graph (LeetCode 133) | Graph / DFS |
+| Number of Islands (LeetCode 200) | Graph / DFS |
+| Number of Provinces (LeetCode 547) | Graph / DFS |
+| Max Area of Island (LeetCode 695) | Graph / DFS |
+| Flood Fill (LeetCode 733) | Graph / DFS |
 
+---
+
+## 📌 Greedy
+
+| Problem Name | Topic |
+|---|---|
+| Jump Game (LeetCode 55) | Greedy / Arrays |
+| Best Time to Buy and Sell Stock (LeetCode 121) | Greedy / Arrays |
+
+---
+
+## 📌 Kadane's Algorithm
+
+| Problem Name | Topic |
+|---|---|
+| Maximum Subarray (LeetCode 53) | Kadane's Algorithm |
+| Maximum Subarray Practice | Kadane's Algorithm |
 
 ---
 
 ## 📌 Matrix / Arrays
+
 | Problem Name | Topic |
 |---|---|
 | Count Negative Numbers in a Sorted Matrix (LeetCode 1351) | Matrix / Binary Search |
@@ -157,101 +221,109 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 ---
 
 ## 📌 Math / Number Manipulation
+
 | Problem Name | Topic |
 |---|---|
 | Reverse Integer (LeetCode 7) | Math / Number Manipulation |
-| Number of Steps to Reduce a Number to Zero (LeetCode 1342) | Math / Recursion |
 | Subtract the Product and Sum of Digits of an Integer (LeetCode 1281) | Math |
-
----
-
-## 📌 Kadane's Algorithm
-| Problem Name | Topic |
-|---|---|
-| Maximum Subarray Using Sliding-Window | Kadane’s Algorithm |
-| Maximum Subarray (LeetCode 53) | Kadane's Algorithm |
-
----
-
-## 📌 Greedy
-| Problem Name | Topic |
-|---|---|
-| Best Time to Buy and Sell Stock (LeetCode 121) | Greedy / Arrays |
-| Jump Game (LeetCode 55) | Greedy/Array |
+| Number of Steps to Reduce a Number to Zero (LeetCode 1342) | Math / Recursion |
 
 ---
 
 ## 📌 String Problems
+
 | Problem Name | Topic |
 |---|---|
-| Valid Anagram | Strings / HashMap |
-| Check Balanced String (LeetCode 3340) | Strings / Simulation |
-| Detect Capital (LeetCode 520) | Strings |
 | Longest Common Prefix (LeetCode 14) | Strings |
-
----
-
-# 💻 Language Used
-
-- Python 🐍
-
----
-
-# 🎯 Goals
-
-- Improve DSA and problem-solving skills
-- Build strong logical thinking
-- Prepare for coding interviews
-- Maintain daily coding consistency
-- Solve 100+ quality DSA problems
-- Master core DSA patterns
-- Track learning publicly on GitHub
-
----
-
-# 📈 Current Progress
-
-✅ 75+ DSA Questions Solved  
-🔥 Daily Consistency in Progress  
-🚀 Continuously Learning New Patterns and Approaches
+| Detect Capital (LeetCode 520) | Strings |
+| Check Balanced String (LeetCode 3340) | Strings / Simulation |
+| Valid Anagram | Strings / HashMap |
 
 ---
 
 # 🏆 Milestones
 
-- ✅ 10 DSA Problems Solved
-- ✅ 25 DSA Problems Solved
-- ✅ 50 DSA Problems Solved
-- ✅ 60 DSA Problems Solved 
-- ✅ 75 DSA Problems Solved
-- 🎯 Current Progress: 75+
-- ⏳ 75 DSA Problems
-- ⏳ 100 DSA Problems
+| Milestone | Status |
+|---|---|
+| 10 DSA Problems | ✅ Completed |
+| 25 DSA Problems | ✅ Completed |
+| 50 DSA Problems | ✅ Completed |
+| 60 DSA Problems | ✅ Completed |
+| 75 DSA Problems | 🎉 Completed |
+| 100 DSA Problems | 🎯 Current Target |
 
 ---
 
 # 📚 Repository Stats
 
-- 💻 Language: Python
-- 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 75+
-- 🎯 Focus: Interview Preparation
+- 💻 **Primary Language:** Python
+- 🧩 **Problems Solved:** 75+
+- 📂 **Structure:** Topic-wise Organization
+- 🎯 **Focus:** DSA & Technical Interview Preparation
+- 🔥 **Status:** Actively Practicing
+- 🚀 **Next Milestone:** 100 Problems
 
 ---
 
-# 📚 Future Plans
+# 🎯 Goals
 
-- Advanced Sliding Window
-- Linked List
-- Trees & Graphs
+- Strengthen Data Structures and Algorithms fundamentals
+- Improve logical thinking and pattern recognition
+- Build strong problem-solving skills
+- Practice optimized approaches
+- Prepare for coding interviews
+- Maintain consistent DSA practice
+- Solve 100+ quality DSA problems
+- Document my learning journey publicly on GitHub
+
+---
+
+# 🛣️ Learning Roadmap
+
+### Currently Practicing
+
+- Graph Traversal
+- DFS
+- Backtracking
+- Prefix Sum
+- Monotonic Stack
+- Greedy Algorithms
+
+### Upcoming Topics
+
+- Breadth-First Search (BFS)
+- Linked Lists
+- Trees
+- Heaps / Priority Queues
 - Dynamic Programming
-- Heap & Greedy Algorithms
+- Union Find / Disjoint Set
 - Advanced Graph Algorithms
+
+---
+
+# 💡 Learning Approach
+
+My focus is not only on solving problems but on understanding the underlying patterns behind them.
+
+For every problem, I aim to:
+
+1. Understand the problem clearly
+2. Identify the underlying DSA pattern
+3. Build a brute-force approach
+4. Analyze time and space complexity
+5. Optimize the solution
+6. Revisit important problems for pattern retention
 
 ---
 
 # ⭐ Learning Philosophy
 
-Small progress every day is better than waiting for perfection.
+> Small progress every day is better than waiting for perfection.
 
-Consistency > Motivation 🚀
+**Consistency > Motivation 🚀**
+
+---
+
+## 🎯 Next Milestone: 100 DSA Problems
+
+The journey continues.
