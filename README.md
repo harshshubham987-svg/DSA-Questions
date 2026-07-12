@@ -84,6 +84,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Remove Adjacent Duplicates | Stack |
 | Valid Parentheses | Stack |
 | Asteroid Collision (LeetCode 735) | Stack / Simulation |
+| Daily Temperatures (LeetCode 739) | Monotonic Stack |
 | Next Greater Element I (LeetCode 496) | Stack / Monotonic Stack |
 | Min Stack (LeetCode 155) | Stack / Design |
 
@@ -143,6 +144,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 | Running Sum of 1D Array (LeetCode 1480) | Arrays / Prefix Sum |
 | Find the Highest Altitude (LeetCode 1732) | Arrays / Prefix Sum |
 | Majority Element II (LeetCode 229) | Arrays / Boyer-Moore Voting |
+| Subarray Sum Equals K (LeetCode 560) | Prefix Sum / HashMap |
+
 
 ---
 
@@ -208,7 +211,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 # 📈 Current Progress
 
-✅ 73+ DSA Questions Solved  
+✅ 75+ DSA Questions Solved  
 🔥 Daily Consistency in Progress  
 🚀 Continuously Learning New Patterns and Approaches
 
@@ -220,7 +223,8 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 - ✅ 25 DSA Problems Solved
 - ✅ 50 DSA Problems Solved
 - ✅ 60 DSA Problems Solved 
-- 🎯 Current Progress: 73+
+- ✅ 75 DSA Problems Solved
+- 🎯 Current Progress: 75+
 - ⏳ 75 DSA Problems
 - ⏳ 100 DSA Problems
 
@@ -230,7 +234,7 @@ This repository contains Data Structures and Algorithms problems solved in Pytho
 
 - 💻 Language: Python
 - 📂 Repository Organized Topic-wise
-- 📈 Problems Solved: 73cd+
+- 📈 Problems Solved: 75+
 - 🎯 Focus: Interview Preparation
 
 ---
