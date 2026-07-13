@@ -7,7 +7,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![LeetCode](https://img.shields.io/badge/LeetCode-76%2B%20Problems-orange?logo=leetcode)
+![LeetCode](https://img.shields.io/badge/LeetCode-77%2B%20Problems-orange?logo=leetcode)
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-purple)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
 
@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **76+ DSA Problems Solved**
+- ✅ **77+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -157,6 +157,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | Problem Name | Topic |
 |---|---|
 | Number of Recent Calls (LeetCode 933) | Queue / Sliding Window |
+| Number of Students Unable to Eat Lunch (LeetCode 1700) | Queue / Simulation |
 
 ---
 
@@ -259,7 +260,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | 25 DSA Problems | ✅ Completed |
 | 50 DSA Problems | ✅ Completed |
 | 60 DSA Problems | ✅ Completed |
-| 75 DSA Problems | 🎉 Completed |
+| 75 DSA Problems | ✅Completed |
 | 100 DSA Problems | 🎯 Current Target |
 
 ---
@@ -267,7 +268,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 76+
+- 🧩 **Problems Solved:** 77+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
