@@ -7,7 +7,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![LeetCode](https://img.shields.io/badge/LeetCode-75%2B%20Problems-orange?logo=leetcode)
+![LeetCode](https://img.shields.io/badge/LeetCode-76%2B%20Problems-orange?logo=leetcode)
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-purple)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
 
@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **75+ DSA Problems Solved**
+- ✅ **76+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -33,6 +33,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 - HashMap / HashSet
 - Prefix Sum
 - Stack
+- Queue
 - Monotonic Stack
 - Recursion
 - Backtracking
@@ -49,6 +50,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 | Category | Focus |
 |---|---|
+| 🚶 Queue | FIFO Processing & Recent Data Tracking |
 | 🔍 Binary Search | Search Space & Sorted Data |
 | 🪟 Sliding Window | Fixed & Variable Windows |
 | 👉 Two Pointer | Pointer Optimization |
@@ -147,6 +149,14 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | Daily Temperatures (LeetCode 739) | Monotonic Stack |
 | Remove Adjacent Duplicates | Stack |
 | Valid Parentheses | Stack |
+
+---
+
+## 📌 Queue
+
+| Problem Name | Topic |
+|---|---|
+| Number of Recent Calls (LeetCode 933) | Queue / Sliding Window |
 
 ---
 
@@ -257,7 +267,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 75+
+- 🧩 **Problems Solved:** 76+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
