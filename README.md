@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **77+ DSA Problems Solved**
+- ✅ **78+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -158,6 +158,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 |---|---|
 | Number of Recent Calls (LeetCode 933) | Queue / Sliding Window |
 | Number of Students Unable to Eat Lunch (LeetCode 1700) | Queue / Simulation |
+| Time Needed to Buy Tickets (LeetCode 2073) | Queue / Simulation |
 
 ---
 
@@ -268,7 +269,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 77+
+- 🧩 **Problems Solved:** 78+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
