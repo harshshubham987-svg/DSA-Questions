@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **78+ DSA Problems Solved**
+- ✅ **79+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -43,6 +43,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 - Matrix
 - Strings
 - Math / Number Manipulation
+- Graphs / BFS / DFS
 
 ---
 
@@ -60,7 +61,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | 📈 Monotonic Stack | Next Greater Element Patterns |
 | 🔁 Recursion | Recursive Thinking & Base Cases |
 | 🔙 Backtracking | Decision Trees & State Exploration |
-| 🌐 Graphs / DFS | Grid and Graph Traversal |
+| 🌐 Graphs / BFS / DFS | Grid and Graph Traversal |
 | ⚡ Greedy | Local Optimal Decisions |
 | 📊 Kadane's Algorithm | Maximum Subarray Patterns |
 | 🔢 Math | Number Manipulation |
@@ -194,7 +195,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 ---
 
-## 📌 Graphs / DFS
+## 📌 Graphs / BFS / DFS
 
 | Problem Name | Topic |
 |---|---|
@@ -203,6 +204,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | Number of Provinces (LeetCode 547) | Graph / DFS |
 | Max Area of Island (LeetCode 695) | Graph / DFS |
 | Flood Fill (LeetCode 733) | Graph / DFS |
+| Rotting Oranges (LeetCode 994) | Graph / Multi-Source BFS |
 
 ---
 
@@ -269,7 +271,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 78+
+- 🧩 **Problems Solved:** 79+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
