@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **83+ DSA Problems Solved**
+- ✅ **85+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -195,12 +195,14 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 ---
 
-## 📌 Graphs / BFS / DFS
+## 📌 Graphs / BFS / DFS / Topological Sort
 
 | Problem Name | Topic |
 |---|---|
 | Clone Graph (LeetCode 133) | Graph / DFS |
 | Number of Islands (LeetCode 200) | Graph / DFS |
+| Course Schedule (LeetCode 207) | Graph / Topological Sort |
+| Course Schedule II (LeetCode 210) | Graph / Topological Sort |
 | Number of Provinces (LeetCode 547) | Graph / DFS |
 | Max Area of Island (LeetCode 695) | Graph / DFS |
 | Flood Fill (LeetCode 733) | Graph / DFS |
@@ -275,7 +277,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 83+
+- 🧩 **Problems Solved:** 85+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
