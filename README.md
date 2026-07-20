@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **85+ DSA Problems Solved**
+- ✅ **86+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -43,7 +43,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 - Matrix
 - Strings
 - Math / Number Manipulation
-- Graphs / BFS / DFS
+- Graphs / BFS / DFS/
 
 ---
 
@@ -61,7 +61,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | 📈 Monotonic Stack | Next Greater Element Patterns |
 | 🔁 Recursion | Recursive Thinking & Base Cases |
 | 🔙 Backtracking | Decision Trees & State Exploration |
-| 🌐 Graphs / BFS / DFS | Grid and Graph Traversal |
+|Graphs / BFS / DFS / Topological Sort / DSU
 | ⚡ Greedy | Local Optimal Decisions |
 | 📊 Kadane's Algorithm | Maximum Subarray Patterns |
 | 🔢 Math | Number Manipulation |
@@ -195,7 +195,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 ---
 
-## 📌 Graphs / BFS / DFS / Topological Sort
+## 📌 Graphs / BFS / DFS / Topological Sort / DSU
 
 | Problem Name | Topic |
 |---|---|
@@ -204,6 +204,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | Course Schedule (LeetCode 207) | Graph / Topological Sort |
 | Course Schedule II (LeetCode 210) | Graph / Topological Sort |
 | Number of Provinces (LeetCode 547) | Graph / DFS |
+| Redundant Connection (LeetCode 684) | Graph / Disjoint Set Union (DSU) |
 | Max Area of Island (LeetCode 695) | Graph / DFS |
 | Flood Fill (LeetCode 733) | Graph / DFS |
 | Rotting Oranges (LeetCode 994) | Graph / Multi-Source BFS |
@@ -277,7 +278,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 85+
+- 🧩 **Problems Solved:** 86+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
