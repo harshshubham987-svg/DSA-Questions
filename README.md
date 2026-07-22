@@ -310,10 +310,10 @@ This repository documents my consistent DSA practice using Python. The goal is t
 - Prefix Sum
 - Monotonic Stack
 - Greedy Algorithms
+- Breadth-First Search (BFS)
 
 ### Upcoming Topics
 
-- Breadth-First Search (BFS)
 - Linked Lists
 - Trees
 - Heaps / Priority Queues
