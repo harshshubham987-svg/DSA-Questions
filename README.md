@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **86+ DSA Problems Solved**
+- ✅ **87+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -212,6 +212,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | 01 Matrix (LeetCode 542) | Graph / Multi-Source BFS |
 | Word Ladder (LeetCode 127) | Graph / BFS / Shortest Path |
 | Open the Lock (LeetCode 752) | Graph / BFS / Shortest Path |
+| Number of Operations to Make Network Connected (LeetCode 1319) | Graph / Disjoint Set Union (DSU) |
 
 ---
 
@@ -278,7 +279,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 86+
+- 🧩 **Problems Solved:** 87+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
