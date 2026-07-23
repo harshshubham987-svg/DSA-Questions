@@ -342,7 +342,7 @@ For every problem, I aim to:
 
 > Small progress every day is better than waiting for perfection.
 
-**Consistency > Motivation 🚀**
+**Consistency > Motivation **
 
 ---
 
