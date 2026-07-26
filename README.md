@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **87+ DSA Problems Solved**
+- ✅ **89+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -132,6 +132,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 | Problem Name | Topic |
 |---|---|
+| Product of Array Except Self (LeetCode 238) | Arrays / Prefix Product |
 | Majority Element II (LeetCode 229) | Arrays / Boyer-Moore Voting |
 | Continuous Subarray Sum (LeetCode 523) | Prefix Sum / HashMap |
 | Subarray Sum Equals K (LeetCode 560) | Prefix Sum / HashMap |
@@ -257,6 +258,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | Problem Name | Topic |
 |---|---|
 | Longest Common Prefix (LeetCode 14) | Strings |
+| String Compression (LeetCode 443) | Strings / Two Pointer |
 | Detect Capital (LeetCode 520) | Strings |
 | Check Balanced String (LeetCode 3340) | Strings / Simulation |
 | Valid Anagram | Strings / HashMap |
@@ -279,7 +281,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 87+
+- 🧩 **Problems Solved:** 89+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
