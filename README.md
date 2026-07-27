@@ -15,7 +15,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 
 # 📈 Current Progress
 
-- ✅ **89+ DSA Problems Solved**
+- ✅ **91+ DSA Problems Solved**
 - 🔥 Consistent Problem-Solving Practice
 - 🧠 Learning Pattern Recognition and Optimization
 - 💻 Solutions Implemented in Python
@@ -91,6 +91,8 @@ This repository documents my consistent DSA practice using Python. The goal is t
 | Contains Duplicate | HashMap |
 | Two Sum | HashMap |
 | Frequency Count | HashMap |
+| Longest Consecutive Sequence (LeetCode 128) | HashSet / Sequence Detection |
+| Top K Frequent Elements (LeetCode 347) | HashMap / Bucket Sort |
 | Intersection of Two Arrays II (LeetCode 350) | HashMap / Arrays |
 | Fair Candy Swap (LeetCode 888) | HashSet / Math |
 | Check If N and Its Double Exist (LeetCode 1346) | HashSet / Arrays |
@@ -281,7 +283,7 @@ This repository documents my consistent DSA practice using Python. The goal is t
 # 📚 Repository Stats
 
 - 💻 **Primary Language:** Python
-- 🧩 **Problems Solved:** 89+
+- 🧩 **Problems Solved:** 91+
 - 📂 **Structure:** Topic-wise Organization
 - 🎯 **Focus:** DSA & Technical Interview Preparation
 - 🔥 **Status:** Actively Practicing
