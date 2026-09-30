@@ -273,6 +273,7 @@ Current C implementations focus on **Linked List fundamentals**.
 | `delete_linked_node.c` | Linked List Deletion |
 | `traverse_linkedList.c` | Linked List Traversal |
 | `traverse_linkedList_recursion.c` | Recursive Linked List Traversal |
+| `search_key_linkedList.c` | Searching a Key in Linked List |
 
 ### Concepts Practiced
 
@@ -337,11 +338,11 @@ Java implementations will be added progressively as I practice DSA concepts in J
 
 ```text
 LeetCode Problems       : 91+
-C DSA Implementations   : 5+
+C DSA Implementations   : 6+
 Python DSA              : In Progress
 Java DSA                : Planned
 
-Total DSA Practice      : 96+
+Total DSA Practice      : 97+
 ```
 
 ### 🎯 Next Milestone
