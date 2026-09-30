@@ -30,10 +30,10 @@ The main goal is to strengthen problem-solving skills, understand DSA patterns d
 | Category | Progress |
 |---|---:|
 | 🟠 LeetCode Problems | **91+** |
-| ⚙️ C DSA Implementations | **5+** |
+| ⚙️ C DSA Implementations | **6+** |
 | 🐍 Python DSA Implementations | **In Progress** |
 | ☕ Java DSA Implementations | **Planned** |
-| 🎯 Total DSA Practice | **96+** |
+| 🎯 Total DSA Practice | **97+** |
 
 > **Note:** Total DSA Practice includes LeetCode problems and separate DSA implementations. The same concept implemented in another language is treated as an implementation/practice item, not automatically as another unique problem.
 
