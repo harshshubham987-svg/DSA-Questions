@@ -1,4 +1,4 @@
-# 🚀 DSA & Algorithms Repository
+#  DSA & Algorithms Repository
 
 Welcome to my **Data Structures & Algorithms** journey!  
 
@@ -30,10 +30,10 @@ The main goal is to strengthen problem-solving skills, understand DSA patterns d
 | Category | Progress |
 |---|---:|
 | 🟠 LeetCode Problems | **91+** |
-| ⚙️ C DSA Implementations | **8+** |
+| ⚙️ C DSA Implementations | **11+** |
 | 🐍 Python DSA Implementations | **In Progress** |
 | ☕ Java DSA Implementations | **Planned** |
-| 🎯 Total DSA Practice | **99+** |
+| 🎯 Total DSA Practice | **102+** |
 
 > **Note:** Total DSA Practice includes LeetCode problems and separate DSA implementations. The same concept implemented in another language is treated as an implementation/practice item, not automatically as another unique problem.
 
@@ -264,18 +264,22 @@ The main goal is to strengthen problem-solving skills, understand DSA patterns d
 
 Current C implementations focus on **Linked List fundamentals**.
 
-## 📌 Linked List — C
+## 🔗 Linked List
 
-| Implementation | Concept |
-|---|---|
-| `create_linkedList.c` | Creating a Linked List |
-| `insert_linked_node.c` | Linked List Insertion |
-| `delete_linked_node.c` | Linked List Deletion |
-| `traverse_linkedList.c` | Linked List Traversal |
-| `traverse_linkedList_recursion.c` | Recursive Linked List Traversal |
-| `search_key_linkedList.c` | Searching a Key in Linked List |
-| `reverse_linkedlist.c` | Reversing a Linked List |
-| `modify_linkedlist.c` | Modifying Linked List Nodes |
+### Singly Linked List
+- Create Linked List
+- Insert Node
+- Delete Node
+- Modify Node
+- Search Key
+- Traverse Linked List
+- Traverse Using Recursion
+- Reverse Linked List
+
+### Doubly Linked List
+- Create Doubly Linked List
+- Traverse Doubly Linked List
+- Traverse Doubly Linked List Using Recursion
 
 ### Concepts Practiced
 
@@ -340,11 +344,11 @@ Java implementations will be added progressively as I practice DSA concepts in J
 
 ```text
 LeetCode Problems       : 91+
-C DSA Implementations   : 8+
+C DSA Implementations   : 11+
 Python DSA              : In Progress
 Java DSA                : Planned
 
-Total DSA Practice      : 99+
+Total DSA Practice      : 102+
 ```
 
 ### 🎯 Next Milestone
@@ -396,7 +400,7 @@ Total DSA Practice      : 99+
 
 > Small progress every day is better than waiting for perfection.
 
-**Consistency > Motivation 🚀**
+**Consistency > Motivation  .**
 
 ---
 
@@ -404,4 +408,4 @@ Total DSA Practice      : 99+
 
 This repository is continuously updated as I solve new problems and learn new DSA concepts.
 
-**Keep learning. Keep solving. Keep improving. 🚀**
+**Keep learning. Keep solving. Keep improving. .**
