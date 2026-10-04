@@ -30,10 +30,10 @@ The main goal is to strengthen problem-solving skills, understand DSA patterns d
 | Category | Progress |
 |---|---:|
 | 🟠 LeetCode Problems | **91+** |
-| ⚙️ C DSA Implementations | **11+** |
+| ⚙️ C DSA Implementations | **13+** |
 | 🐍 Python DSA Implementations | **In Progress** |
 | ☕ Java DSA Implementations | **Planned** |
-| 🎯 Total DSA Practice | **102+** |
+| 🎯 Total DSA Practice | **104+** |
 
 > **Note:** Total DSA Practice includes LeetCode problems and separate DSA implementations. The same concept implemented in another language is treated as an implementation/practice item, not automatically as another unique problem.
 
@@ -277,9 +277,12 @@ Current C implementations focus on **Linked List fundamentals**.
 - Reverse Linked List
 
 ### Doubly Linked List
+
 - Create Doubly Linked List
-- Traverse Doubly Linked List
-- Traverse Doubly Linked List Using Recursion
+- Insert Node (from Begning, End, Specific Position)
+- Delete Node (from Begning, End, Specific Position)
+- Traverse Linked List
+- Traverse Linked List Using Recursion
 
 ### Concepts Practiced
 
