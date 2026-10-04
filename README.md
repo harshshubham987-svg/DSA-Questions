@@ -19,9 +19,9 @@ The main goal is to strengthen problem-solving skills, understand DSA patterns d
 
 ### Current Languages
 
-- 🐍 Python
-- ⚙️ C
-- ☕ Java — Planned / Coming Soon
+- Python
+- C
+- Java — Planned / Coming Soon
 
 ---
 
@@ -29,11 +29,11 @@ The main goal is to strengthen problem-solving skills, understand DSA patterns d
 
 | Category | Progress |
 |---|---:|
-| 🟠 LeetCode Problems | **91+** |
-| ⚙️ C DSA Implementations | **13+** |
-| 🐍 Python DSA Implementations | **In Progress** |
-| ☕ Java DSA Implementations | **Planned** |
-| 🎯 Total DSA Practice | **104+** |
+| LeetCode Problems | **91+** |
+| C DSA Implementations | **13+** |
+| Python DSA Implementations | **In Progress** |
+| Java DSA Implementations | **Planned** |
+| Total DSA Practice | **104+** |
 
 > **Note:** Total DSA Practice includes LeetCode problems and separate DSA implementations. The same concept implemented in another language is treated as an implementation/practice item, not automatically as another unique problem.
 
@@ -338,8 +338,8 @@ Java implementations will be added progressively as I practice DSA concepts in J
 | 60 DSA Problems | ✅ Completed |
 | 75 DSA Problems | ✅ Completed |
 | 80 DSA Problems | ✅ Completed |
-| 90 DSA Problems | 🎉 Completed |
-| 100 DSA Problems | 🎯 Current Target |
+| 90 DSA Problems | Completed |
+| 100 DSA Problems | Completed |
 
 ---
 
@@ -347,16 +347,16 @@ Java implementations will be added progressively as I practice DSA concepts in J
 
 ```text
 LeetCode Problems       : 91+
-C DSA Implementations   : 11+
+C DSA Implementations   : 13+
 Python DSA              : In Progress
 Java DSA                : Planned
 
-Total DSA Practice      : 102+
+Total DSA Practice      : 104+
 ```
 
 ### 🎯 Next Milestone
 
-**100+ DSA Problems / Practice Items**
+**125+ DSA Problems / Practice Items**
 
 ---
 
@@ -403,7 +403,7 @@ Total DSA Practice      : 102+
 
 > Small progress every day is better than waiting for perfection.
 
-**Consistency > Motivation  .**
+**Consistency > Motivation.**
 
 ---
 
@@ -411,4 +411,4 @@ Total DSA Practice      : 102+
 
 This repository is continuously updated as I solve new problems and learn new DSA concepts.
 
-**Keep learning. Keep solving. Keep improving. .**
+**Keep learning. Keep solving. Keep improving.**
